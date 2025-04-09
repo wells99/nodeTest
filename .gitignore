@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente (geralmente contém informações sensíveis)
+.env
+
+# Arquivos de sistema do MacOS
+.DS_Store
+
+# Arquivos do Visual Studio Code
+.vscode/
+
+# Pasta de build
+dist/
+
+# Arquivos de cache do npm
+npm-debug.log*
+
+# Arquivos de configuração do JetBrains IDEs (como WebStorm)
+.idea/
+
+# Arquivos de cache de pacotes (como Yarn)
+yarn-error.log
